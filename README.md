@@ -1,0 +1,2 @@
+# gorle
+Run-length encoding
